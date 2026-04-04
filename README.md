@@ -1,48 +1,34 @@
-# Hi, I'm Kumara Swamy Padari
+Hi there, I'm Kumara Swamy Padari
+About Me
 
-**MS Computer Science @ Northeastern University (Khoury College) | Portland, ME**
+Master's in Computer Science at Northeastern University (Khoury College), Portland, ME
+Full Stack Developer with a focus on backend engineering, AI integration, and data pipelines
+Experienced in building LLM-powered tools, RESTful APIs, and geospatial data systems
+Graduate Teaching Assistant for CS5800 Algorithms, supporting 60+ students across 3 sections
 
-I build full-stack applications and AI-powered tools — with a focus on LLM integration, backend systems, and data pipelines.
+What I'm Working On
 
----
+Building a geospatial data pipeline processing 3M+ records of satellite imagery and soil data for ML-based soil moisture prediction (Aperture Space, Inc.)
+Developing an automated email delivery system with Django and Brevo API, serving 50-70 school districts (UniteGPS)
+Exploring AI agent architectures, MCP servers, and blockchain-integrated applications
 
-### What I'm Working On
+Featured Projects
 
-- **Geospatial Data Pipeline** — Processing 3M+ records of satellite imagery and soil data using Python, rasterio, and AWS S3 for ML-based soil moisture prediction.
-- **Parent Invite Automation System** — Backend email service built with Django and Brevo API, serving 50–70 school districts with full delivery tracking.
-- **Graduate TA — CS5800 Algorithms** — Supporting 60+ students across 3 sections with office hours, grading, and review sessions.
+AI ATS Scanner: Resume-to-job matching tool using FastAPI, Gemini, and OpenAI with ATS scoring and historical tracking in PostgreSQL
+No Code AI Workflow: Drag-and-drop UI for building LLM pipelines with PDF uploads, semantic search via ChromaDB, and multi-model support
 
----
+Research
 
-### Projects
+5G and IoT Integration: Assessing the Technological and Security Impacts. Peer-reviewed paper presented at MIR Labs, 19th International Conference on Information Assurance and Security (IAS 2023)
 
-| Project | Stack | What It Does |
-|---|---|---|
-| [AI ATS Scanner](https://github.com/kumar3202/AI-ATS-Scanner) | FastAPI, Gemini, OpenAI, PostgreSQL | Analyzes resumes against job descriptions and generates ATS compatibility scores with historical tracking |
-| [No Code AI Workflow](https://github.com/kumar3202/NO_CODE_AI_WORKFLOW) | React Flow, FastAPI, ChromaDB, OpenAI, Gemini | Drag-and-drop UI for building LLM pipelines with PDF uploads, semantic search, and multi-model support |
+Tech Stack
+Languages: Python, JavaScript
+Backend: FastAPI, Django, REST APIs
+Frontend: React.js, HTML, CSS
+AI/ML: OpenAI GPT, Gemini, RAG, ChromaDB
+Data and Cloud: Pandas, NumPy, AWS S3, Docker, CI/CD
+Databases: PostgreSQL, MySQL, MongoDB
+Connect With Me
 
----
-
-### Tech Stack
-
-**Languages:** Python, JavaScript  
-**Backend:** FastAPI, Django, REST APIs, PHP  
-**Frontend:** React.js, HTML, CSS  
-**AI/ML:** OpenAI GPT, Gemini, RAG, Fine-Tuning, ChromaDB  
-**Data & Cloud:** Pandas, NumPy, AWS S3, Docker, CI/CD  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-
----
-
-### Research
-
-**5G and IoT Integration: Assessing the Technological and Security Impacts**  
-Presented at MIR Labs, 19th International Conference on Information Assurance and Security (IAS 2023)  
-Co-authored peer-reviewed paper on security vulnerabilities and mitigation strategies in 5G-enabled IoT networks.
-
----
-
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumarpadari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kumarpadari)
-[![Email](https://img.shields.io/badge/Email-padari.k%40northeastern.edu-red?style=flat&logo=gmail)](mailto:padari.k@northeastern.edu)
+Email: padari.k@northeastern.edu
+LinkedIn: linkedin.com/in/kumarpadari
