@@ -1,4 +1,4 @@
-# Hi there, I'm Kumara Swamy Padari
+# Hi there, I'm Kumar
 
 ### About Me
 
