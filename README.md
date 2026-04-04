@@ -24,12 +24,12 @@
 
 ### Tech Stack
 
-Languages: Python, JavaScript
-Backend: FastAPI, Django, REST APIs
-Frontend: React.js, HTML, CSS
-AI/ML: OpenAI GPT, Gemini, RAG, ChromaDB
-Data and Cloud: Pandas, NumPy, AWS S3, Docker, CI/CD
-Databases: PostgreSQL, MySQL, MongoDB
+- Languages: Python, JavaScript
+- Backend: FastAPI, Django, REST APIs
+- Frontend: React.js, HTML, CSS
+- AI/ML: OpenAI GPT, Gemini, RAG, ChromaDB
+- Data and Cloud: Pandas, NumPy, AWS S3, Docker, CI/CD
+- Databases: PostgreSQL, MySQL, MongoDB
 
 ### Connect With Me
 
