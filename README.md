@@ -13,11 +13,6 @@
 - Developing an automated email delivery system with Django and Brevo API, serving 50-70 school districts (UniteGPS)
 - Exploring AI agent architectures, MCP servers, and blockchain-integrated applications
 
-### Featured Projects
-
-- [AI ATS Scanner](https://github.com/kumar3202/AI-ATS-Scanner): Resume-to-job matching tool using FastAPI, Gemini, and OpenAI with ATS scoring and historical tracking in PostgreSQL
-- [No Code AI Workflow](https://github.com/kumar3202/NO_CODE_AI_WORKFLOW): Drag-and-drop UI for building LLM pipelines with PDF uploads, semantic search via ChromaDB, and multi-model support
-
 ### Research
 
 - 5G and IoT Integration: Assessing the Technological and Security Impacts. Peer-reviewed paper presented at MIR Labs, 19th International Conference on Information Assurance and Security (IAS 2023)
