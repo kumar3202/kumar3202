@@ -2,7 +2,7 @@
 
 ### About Me
 
-- Master's in Computer Science at Northeastern University (Khoury College), Portland, ME
+- Master's in Computer Science at Northeastern University (Khoury College)
 - Full Stack Developer with a focus on backend engineering, AI integration, and data pipelines
 - Experienced in building LLM-powered tools, RESTful APIs, and geospatial data systems
 - Graduate Teaching Assistant for CS5800 Algorithms, supporting 60+ students across 3 sections
