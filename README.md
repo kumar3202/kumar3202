@@ -144,7 +144,7 @@ Built a geospatial pipeline streaming Landsat 8/9 imagery via the STAC API and r
 
 ## `> echo $status`
 
-<div align="center">
+<div align="center-right">
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=programming)
 
@@ -152,5 +152,6 @@ Built a geospatial pipeline streaming Landsat 8/9 imagery via the STAC API and r
 
 </div>
 
-
+<div align="center-right">
 ![Profile Views](https://komarev.com/ghpvc/?username=kumar3202&color=00F5D4&style=flat&label=Profile+Views)
+</div>
