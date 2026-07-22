@@ -150,9 +150,6 @@ Built a geospatial pipeline streaming Landsat 8/9 imagery via the STAC API and r
 
 *Reach out on [LinkedIn](https://www.linkedin.com/in/kumarpadari) or via [email](mailto:padari.k@northeastern.edu) - always glad to talk backend systems, LLM pipelines, or algorithms.*
 
-</div>
-
-<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=kumar3202&color=00F5D4&style=flat&label=Profile+Views)
   
 </div>
