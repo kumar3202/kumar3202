@@ -1,11 +1,7 @@
-<h1 align="center"> Hi, I'm Kumar 👋</h1>
+<h1 align="center"> Hi, i'm kumar 👋</h1>
 
 <p align="center">
-  Software Engineer • Researcher
-</p>
-
-<p align="center">
-  <a href="https://kumar3202.github.io"><b>website</b></a>
+  software engineer • researcher
 </p>
 
 ## 👨‍💻 About Me
@@ -18,4 +14,8 @@
   <a href="https://leetcode.com/u/kumar3202/">
     <img src="https://leetcard.jacoblin.cool/kumar3202?theme=dark&font=Roboto%20Mono&ext=heatmap" alt="LeetCode Stats" width="500">
   </a>
+</p>
+
+<p align="center">
+  <a href="https://kumar3202.github.io"><b>website</b></a>
 </p>
