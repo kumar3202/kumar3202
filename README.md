@@ -13,7 +13,3 @@
     <img src="https://leetcard.jacoblin.cool/kumar3202?theme=dark&font=Roboto%20Mono&ext=heatmap" alt="LeetCode Stats" width="500">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://kumar3202.github.io"><b>website</b></a>
-</p>
