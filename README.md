@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, i'm kumar 👋</h1>
 
 <p align="center">
-  software engineer • researcher
+  backend // blockchain
 </p>
 
 ## 👨‍💻 About Me
